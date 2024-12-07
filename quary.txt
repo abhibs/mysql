@@ -56,3 +56,12 @@ DESC tableOne;
 name	    varchar(255)	YES		NULL		
 age	        int(2)	        YES		NULL		
 address	    varchar(255)	YES		NULL	
+
+
+
+INSERT INTO tableone(name, age, address)
+VALUES
+("Abhiram", 27, "Javalli")
+
+
+
