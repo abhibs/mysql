@@ -65,3 +65,9 @@ VALUES
 
 
 
+
+SELECT * FROM tableone;
+
+
+name        age     address
+Abhiram     27  	Javalli	
