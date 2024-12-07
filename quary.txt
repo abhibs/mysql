@@ -1,3 +1,31 @@
 CREATE DATABASE practice;
 
 
+SHOW DATABASES;
+
+Database
+abhi3
+abhiramexcel
+alpha_attica
+asterisk
+attendence
+attica
+atticaattendance
+atticacctv
+atticaexcel
+atticaexcelsheets
+atticagold
+cctv
+cctvrtsp
+chat
+excel
+information_schema
+mysql
+newatticaexcel
+performance_schema
+phpmyadmin
+practice
+project-one
+project-two
+python-tkinter-api
+test
