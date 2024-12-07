@@ -34,3 +34,13 @@ test
 
 
 USE practice;
+
+
+CREATE TABLE tableOne
+(
+	name varchar(255),
+    age integer(2),
+    address varchar(255)
+);
+
+
