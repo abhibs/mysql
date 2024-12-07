@@ -51,3 +51,8 @@ tableone
 
 
 
+DESC tableOne;
+
+name	    varchar(255)	YES		NULL		
+age	        int(2)	        YES		NULL		
+address	    varchar(255)	YES		NULL	
