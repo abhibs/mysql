@@ -71,3 +71,11 @@ SELECT * FROM tableone;
 
 name        age     address
 Abhiram     27  	Javalli	
+
+
+
+INSERT INTO tableone
+VALUES
+("Anjan", 26, "Balekoppa");
+
+
