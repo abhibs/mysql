@@ -44,3 +44,10 @@ CREATE TABLE tableOne
 );
 
 
+SHOW TABLES;
+
+Tables_in_practice
+tableone
+
+
+
