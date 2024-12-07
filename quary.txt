@@ -79,3 +79,9 @@ VALUES
 ("Anjan", 26, "Balekoppa");
 
 
+
+SELECT * FROM tableone;
+
+name    	age	    address	
+Abhiram	    27	    Javalli	
+Anjan	    26	    Balekoppa	
