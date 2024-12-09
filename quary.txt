@@ -93,3 +93,17 @@ VALUES
 (33, "Honnekoppa", "Aravind")
 
 
+SELECT * FROM tableone;
+
+127.0.0.1/practice/tableone/		http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=practice&table=tableone
+
+   Showing rows 0 -  2 (3 total, Query took 0.0001 seconds.)
+
+
+SELECT * FROM tableone;
+
+
+name    	age 	address	
+Abhiram 	27  	Javalli	
+Anjan   	26  	Balekoppa	
+Aravind 	33  	Honnekoppa	
