@@ -85,3 +85,11 @@ SELECT * FROM tableone;
 name    	age	    address	
 Abhiram	    27	    Javalli	
 Anjan	    26	    Balekoppa	
+
+
+
+INSERT INTO tableone(age, address,name)
+VALUES
+(33, "Honnekoppa", "Aravind")
+
+
