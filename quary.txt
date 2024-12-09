@@ -141,3 +141,12 @@ Anitha  	35  	Honnekoppa
 Anushree    30  	Balekoppa	
 Surabi  	29  	Bangalore	
 Sarita  	32  	Bangalore	
+
+
+
+INSERT INTO tableone(age, address,name)
+VALUES
+(28, "Udupi", "Manu"),
+(30, "Siddapura", "Anu");
+
+
