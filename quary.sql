@@ -192,3 +192,12 @@ Surabi	Bangalore
 Sarita	Bangalore	
 Manu	Udupi	
 Anu	Siddapura	
+
+
+
+INSERT INTO tableone(name,age,address)
+VALUES
+('Srinivasa ''s Company', 50, 'Javalli'),
+('Manasa \'s Company', 45, 'Javlli');
+
+
