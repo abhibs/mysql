@@ -162,3 +162,18 @@ Surabi  	29  	Bangalore
 Sarita  	32  	Bangalore	
 Manu    	28  	Udupi	
 Anu 	    30  	Siddapura	
+
+
+
+SELECT name FROM tableone;
+
+name	
+Abhiram	
+Anjan	
+Aravind	
+Anitha	
+Anushree	
+Surabi	
+Sarita	
+Manu	
+Anu	
