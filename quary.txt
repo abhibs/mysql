@@ -107,3 +107,10 @@ name    	age 	address
 Abhiram 	27  	Javalli	
 Anjan   	26  	Balekoppa	
 Aravind 	33  	Honnekoppa	
+
+
+
+INSERT INTO tableone(name,age,address)
+VALUES
+("Anitha", 35, "Honnekoppa"),
+("Anushree", 30, "Balekoppa");
