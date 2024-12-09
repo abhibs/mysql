@@ -177,3 +177,18 @@ Surabi
 Sarita	
 Manu	
 Anu	
+
+
+
+SELECT name, address FROM tableone;
+
+name	address	
+Abhiram	Javalli	
+Anjan	Balekoppa	
+Aravind	Honnekoppa	
+Anitha	Honnekoppa	
+Anushree	Balekoppa	
+Surabi	Bangalore	
+Sarita	Bangalore	
+Manu	Udupi	
+Anu	Siddapura	
