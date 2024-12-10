@@ -201,3 +201,22 @@ VALUES
 ('Manasa \'s Company', 45, 'Javlli');
 
 
+
+
+SELECT * FROM tableone;
+
+
+name                	age	    address	
+Abhiram             	27	    Javalli	
+Anjan               	26	    Balekoppa	
+Aravind             	33	    Honnekoppa	
+Anitha              	35	    Honnekoppa	
+Anushree	            30	    Balekoppa	
+Surabi              	29	    Bangalore	
+Sarita              	32	    Bangalore	
+Manu                	28	    Udupi	
+Anu	                    30      Siddapura	
+Srinivasa 's Company	50	    Javalli	
+Manasa 's Company   	45	    Javlli	
+
+
