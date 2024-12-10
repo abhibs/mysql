@@ -227,3 +227,12 @@ Abhiram 	27  	Javalli
 Anjan   	26  	Balekoppa	
 Aravind 	33  	Honnekoppa	
 
+
+
+SELECT * FROM tableone LIMIT 1,3;
+
+
+name	age	address	
+Anjan	26	Balekoppa	
+Aravind	33	Honnekoppa	
+Anitha	35	Honnekoppa	
