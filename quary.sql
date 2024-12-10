@@ -220,3 +220,10 @@ Srinivasa 's Company	50	    Javalli
 Manasa 's Company   	45	    Javlli	
 
 
+SELECT * FROM tableone LIMIT 3;
+
+name    	age 	address	
+Abhiram 	27  	Javalli	
+Anjan   	26  	Balekoppa	
+Aravind 	33  	Honnekoppa	
+
