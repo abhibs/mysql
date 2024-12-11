@@ -282,3 +282,9 @@ id	    name	    city	        pin
 2	    Anjan	    Balekoppa	    577200	
 3	    Aravind	    Honnekoppa	    577300	
 4	    Anitha	    Honnekoppa	    577300	
+
+
+INSERT INTO tabletwo(id,name,city)
+VALUES
+(5, 'Amith', 'Thirthahalli');
+
