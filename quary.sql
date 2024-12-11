@@ -348,3 +348,15 @@ id	    name	    city	        pin
 3	    Aravind	    Honnekoppa	    577300	
 4	    Anitha	    Honnekoppa	    577300	
 5	    Amith	    Thirthahalli	NULL	
+
+
+SELECT * FROM tabletwo WHERE city < 'C';
+
+
+
+
+SELECT * FROM tabletwo WHERE city < 'C';
+
+
+id	    name	    city	        pin	
+2	    Anjan	    Balekoppa	    577200	
