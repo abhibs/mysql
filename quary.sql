@@ -423,3 +423,9 @@ SELECT * FROM tabletwo WHERE id = 1 OR name = "Anjan";
 id	    name	    city	    pin	
 1	    Abhiram	    Javalli	    577226	
 2	    Anjan	    Balekoppa	577200	
+
+
+SELECT * FROM tabletwo WHERE id = 10 OR name = "Abhiram";
+
+id	    name	    city	    pin	
+1	    Abhiram	    Javalli	    577226	
