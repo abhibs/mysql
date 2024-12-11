@@ -249,3 +249,12 @@ Manu	28	Udupi
 Anu	30	Siddapura	
 Srinivasa 's Company	50	Javalli	
 Manasa 's Company	45	Javlli	
+
+
+CREATE TABLE tablethree
+(
+	id int(4),
+    name varchar(255),
+    city varchar(255),
+    pin int(6)
+);
