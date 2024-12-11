@@ -378,3 +378,11 @@ id  	name	    city	        pin
 3   	Aravind	    Honnekoppa	    577300	
 4   	Anitha	    Honnekoppa	    577300	
 5   	Amith	    Thirthahalli	NULL	
+
+
+# is null operator 
+
+SELECT * FROM tabletwo WHERE pin IS NULL;
+
+id  	name	    city	        pin	
+5	    Amith	    Thirthahalli	NULL	
