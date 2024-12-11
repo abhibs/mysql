@@ -352,11 +352,17 @@ id	    name	    city	        pin
 
 SELECT * FROM tabletwo WHERE city < 'C';
 
-
-
-
-SELECT * FROM tabletwo WHERE city < 'C';
-
-
 id	    name	    city	        pin	
 2	    Anjan	    Balekoppa	    577200	
+
+
+
+# where with != (not equal) operator
+
+SELECT * FROM tabletwo WHERE id != 1;
+
+id  	name	    city	        pin	
+2   	Anjan	    Balekoppa	    577200	
+3   	Aravind	    Honnekoppa	    577300	
+4   	Anitha	    Honnekoppa	    577300	
+5   	Amith	    Thirthahalli	NULL	
