@@ -404,3 +404,9 @@ SELECT * FROM tabletwo WHERE id = 1 AND name = "Abhiram";
 
 id	    name	    city	    pin	
 1	    Abhiram	    Javalli	    577226	
+
+
+SELECT * FROM tabletwo WHERE id = 1 AND name = "Anjan";
+
+id	    name	    city	    pin	
+
