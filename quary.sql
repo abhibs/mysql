@@ -272,3 +272,13 @@ VALUES
 (2, 'Anjan', 'Balekoppa', 577200),
 (3, 'Aravind', 'Honnekoppa', 577300),
 (4, 'Anitha', 'Honnekoppa', 577300);
+
+
+
+SELECT * FROM tabletwo;
+
+id	    name	    city	        pin	
+1	    Abhiram	    Javalli	        577226	
+2	    Anjan	    Balekoppa	    577200	
+3	    Aravind	    Honnekoppa	    577300	
+4	    Anitha	    Honnekoppa	    577300	
