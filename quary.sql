@@ -306,6 +306,14 @@ id	name	    city	        pin
 
 SELECT * FROM tabletwo WHERE id = 1;
 
-
-
 1	Abhiram	Javalli	577226	
+
+
+
+
+# where with = operator
+
+SELECT * FROM tabletwo WHERE name = "Abhiram";
+id	name	    city	        pin	
+1	Abhiram	    Javalli	        577226	
+
