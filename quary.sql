@@ -569,3 +569,14 @@ SELECT * FROM tabletwo WHERE id NOT BETWEEN 2 AND 4;
 id	    name	    city	        pin	
 1	    Abhiram	    Javalli	        577226	
 5	    Amith	    Thirthahalli	NULL	
+
+
+# text
+
+SELECT * FROM tablethree WHERE name NOT BETWEEN 'L' AND 'T';
+
+id	    name	    dob	            dept	        salary	    city	        pin	        email	
+101	    Abhiram	    1997-02-18	    Software	    30000	    Javalli	        577226	    abhirambs97@gmail.com	
+102	    Amith	    1988-04-03	    Accountant	    15000	    Thirthalli	    577220	    amith@gmail.com	
+103	    Tanu	    1990-01-01	    HR	            25000	    Agumbe	        568526	    tanu@gmail.com	
+
