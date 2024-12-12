@@ -451,3 +451,13 @@ SELECT * FROM tabletwo WHERE city = 'Honnekoppa' AND (id = 3 OR name = "Anitha")
 id	    name	    city	        pin	
 3	    Aravind	    Honnekoppa	    577300	
 4	    Anitha	    Honnekoppa	    577300	
+
+
+
+# IN Operator
+
+SELECT * FROM `tabletwo` WHERE name IN("Abhiram","Anjan")
+
+id	    name	    city	    pin	
+1	    Abhiram	    Javalli	    577226	
+2	    Anjan	    Balekoppa	577200	
