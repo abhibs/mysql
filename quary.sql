@@ -556,3 +556,16 @@ id	    name	    dob	            dept	        salary	    city	        pin	       
 105	    suchith	    1995-08-15	    Developer	    23000	    Chikkamagalure	584070	    suchith@gmail.com	
 106	    Manoj	    1996-09-26	    IT	            25000	    Badravati	    560000	    manoj@gmail.com	
 
+
+
+# NOT BETWEEN Operator
+
+# number
+
+
+SELECT * FROM tabletwo WHERE id NOT BETWEEN 2 AND 4;
+
+
+id	    name	    city	        pin	
+1	    Abhiram	    Javalli	        577226	
+5	    Amith	    Thirthahalli	NULL	
