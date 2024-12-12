@@ -472,3 +472,15 @@ id	    name	    city	        pin
 3	    Aravind	    Honnekoppa	    577300	
 4	    Anitha	    Honnekoppa	    577300	
 5	    Amith	    Thirthahalli	NULL	
+
+
+# BETWEEN Operator
+
+# number
+
+SELECT * FROM `tabletwo` WHERE id BETWEEN 2 AND 4;
+
+id	    name	    city	        pin	
+2	    Anjan	    Balekoppa	    577200	
+3	    Aravind	    Honnekoppa	    577300	
+4	    Anitha	    Honnekoppa	    577300	
