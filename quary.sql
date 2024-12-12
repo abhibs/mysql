@@ -443,3 +443,11 @@ SELECT * FROM tabletwo WHERE name = "Abhi" OR id = 10;
 
 id	    name	    city	    pin	
 
+
+# combination of AND & OR
+
+SELECT * FROM tabletwo WHERE city = 'Honnekoppa' AND (id = 3 OR name = "Anitha")
+
+id	    name	    city	        pin	
+3	    Aravind	    Honnekoppa	    577300	
+4	    Anitha	    Honnekoppa	    577300	
