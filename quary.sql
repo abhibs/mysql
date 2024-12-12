@@ -541,3 +541,6 @@ id	    name	    dob	            dept	        salary	    city	        pin	       
 104	    lavanya	    1998-06-20	    Developer	    20000	    Badravati	    576030	    lavanya@gmail.com	
 106	    lavanya	    1998-06-20	    Developer	    24000	    Badravati	    576030	    lavanya@gmail.com	
 
+
+UPDATE tablethree SET name = "Manoj", dob = '1996-09-26', dept = 'IT', salary = 25000, pin = 560000, email = 'manoj@gmail.com' WHERE id = 106;
+
