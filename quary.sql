@@ -521,3 +521,13 @@ id	    name	    dob	            dept	        salary	    city	        pin	       
 104	    lavanya	    1998-06-20	    Developer	    20000	    Badravati	    576030	    lavanya@gmail.com	
 105	    suchith	    1995-08-15	    Developer	    23000	    Chikkamagalure	584070	    suchith@gmail.com	
 106	    lavanya	    1998-06-20	    Developer	    24000	    Badravati	    576030	    lavanya@gmail.com	
+
+# text
+
+SELECT * FROM tablethree WHERE name BETWEEN 'L' AND 'T';
+
+id	    name	    dob	            dept	        salary	    city	        pin	        email	
+104	    lavanya	    1998-06-20	    Developer	    20000	    Badravati	    576030	    lavanya@gmail.com	
+105	    suchith	    1995-08-15	    Developer	    23000	    Chikkamagalure	584070	    suchith@gmail.com	
+106	    lavanya	    1998-06-20	    Developer	    24000	    Badravati	    576030	    lavanya@gmail.com	
+
