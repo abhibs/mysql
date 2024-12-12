@@ -498,3 +498,26 @@ CREATE TABLE tablethree
     pin int(6),
     email varchar(255)
 );
+
+
+
+INSERT INTO tablethree
+VALUES
+(101,"Abhiram",'1997-02-18','Software',30000,'Javalli',577226,'abhirambs97@gmail.com'),
+(102,"Amith",'1988-04-03','Accountant',15000,'Thirthalli',577220,'amith@gmail.com'),
+(103,"Tanu",'1990-01-01','HR',25000,'Agumbe',568526,'tanu@gmail.com'),
+(104, "lavanya", '1998-06-20', 'Developer',20000, 'Badravati', 576030, 'lavanya@gmail.com'),
+(105, "suchith", '1995-08-15', 'Developer',23000,'Chikkamagalure', 584070, 'suchith@gmail.com'),
+(106, "lavanya", '1998-06-20', 'Developer',24000,'Badravati', 576030, 'lavanya@gmail.com');
+
+
+
+SELECT * FROM tablethree;
+
+id	    name	    dob	            dept	        salary	    city	        pin	        email	
+101	    Abhiram	    1997-02-18	    Software	    30000	    Javalli	        577226	    abhirambs97@gmail.com	
+102	    Amith	    1988-04-03	    Accountant	    15000	    Thirthalli	    577220	    amith@gmail.com	
+103	    Tanu	    1990-01-01	    HR	            25000	    Agumbe	        568526	    tanu@gmail.com	
+104	    lavanya	    1998-06-20	    Developer	    20000	    Badravati	    576030	    lavanya@gmail.com	
+105	    suchith	    1995-08-15	    Developer	    23000	    Chikkamagalure	584070	    suchith@gmail.com	
+106	    lavanya	    1998-06-20	    Developer	    24000	    Badravati	    576030	    lavanya@gmail.com	
