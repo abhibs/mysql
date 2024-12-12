@@ -484,3 +484,17 @@ id	    name	    city	        pin
 2	    Anjan	    Balekoppa	    577200	
 3	    Aravind	    Honnekoppa	    577300	
 4	    Anitha	    Honnekoppa	    577300	
+
+
+
+CREATE TABLE tablethree
+(
+	id int(5),
+    name varchar(255),
+    dob date,
+    dept varchar(255),
+    salary int(8),
+    city varchar(255),
+    pin int(6),
+    email varchar(255)
+);
