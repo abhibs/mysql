@@ -544,3 +544,15 @@ id	    name	    dob	            dept	        salary	    city	        pin	       
 
 UPDATE tablethree SET name = "Manoj", dob = '1996-09-26', dept = 'IT', salary = 25000, pin = 560000, email = 'manoj@gmail.com' WHERE id = 106;
 
+
+
+SELECT * FROM tablethree
+
+id	    name	    dob	            dept	        salary	    city	        pin	        email	
+101	    Abhiram	    1997-02-18	    Software	    30000	    Javalli	        577226	    abhirambs97@gmail.com	
+102	    Amith	    1988-04-03	    Accountant	    15000	    Thirthalli	    577220	    amith@gmail.com	
+103	    Tanu	    1990-01-01	    HR	            25000	    Agumbe	        568526	    tanu@gmail.com	
+104	    lavanya	    1998-06-20	    Developer	    20000	    Badravati	    576030	    lavanya@gmail.com	
+105	    suchith	    1995-08-15	    Developer	    23000	    Chikkamagalure	584070	    suchith@gmail.com	
+106	    Manoj	    1996-09-26	    IT	            25000	    Badravati	    560000	    manoj@gmail.com	
+
