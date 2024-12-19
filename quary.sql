@@ -621,3 +621,18 @@ id	    name	    dob	            dept	        salary	    city	        pin	       
 102	    Amith	    1988-04-03	    Accountant	    15000	    Thirthalli	    577220	    amith@gmail.com	
 103	    Tanu	    1990-01-01	    HR	            25000	    Agumbe	        568526	    tanu@gmail.com	
 106	    Manoj	    1996-09-26	    IT	            25000	    Badravati	    560000	    manoj@gmail.com	
+
+
+
+
+
+
+
+
+
+SELECT * FROM tablethree WHERE(salary BETWEEN 25000 AND 30000) AND NOT dept IN('IT', 'Developer');
+
+
+id	    name	    dob	            dept	        salary	    city	        pin	        email
+101	    Abhiram	    1997-02-18	    Software	    30000	    Javalli	        577226	    abhirambs97@gmail.com	
+103	    Tanu	    1990-01-01	    HR	            25000	    Agumbe	        568526	    tanu@gmail.com	
